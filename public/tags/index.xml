@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Continuous Coding</title>
+    <link>http://localhost:1313/tags/</link>
+    <description>Recent content in Tags on Continuous Coding</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Sat, 30 Nov 2019 20:48:10 +0900</lastBuildDate>
+    
+        <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>diagram</title>
+        <link>http://localhost:1313/tags/diagram/</link>
+        <pubDate>Sun, 17 Nov 2019 12:00:06 +0900</pubDate>
+        
+        <guid>http://localhost:1313/tags/diagram/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>css</title>
+        <link>http://localhost:1313/tags/css/</link>
+        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/tags/css/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>html</title>
+        <link>http://localhost:1313/tags/html/</link>
+        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/tags/html/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>markdown</title>
+        <link>http://localhost:1313/tags/markdown/</link>
+        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/tags/markdown/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>themes</title>
+        <link>http://localhost:1313/tags/themes/</link>
+        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/tags/themes/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>privacy</title>
+        <link>http://localhost:1313/tags/privacy/</link>
+        <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/tags/privacy/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>shortcodes</title>
+        <link>http://localhost:1313/tags/shortcodes/</link>
+        <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/tags/shortcodes/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>text</title>
+        <link>http://localhost:1313/tags/text/</link>
+        <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/tags/text/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>amoji</title>
+        <link>http://localhost:1313/tags/amoji/</link>
+        <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/tags/amoji/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>bamoji</title>
+        <link>http://localhost:1313/tags/bamoji/</link>
+        <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/tags/bamoji/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>emoji</title>
+        <link>http://localhost:1313/tags/emoji/</link>
+        <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/tags/emoji/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>gamoji</title>
+        <link>http://localhost:1313/tags/gamoji/</link>
+        <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/tags/gamoji/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>namoji</title>
+        <link>http://localhost:1313/tags/namoji/</link>
+        <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/tags/namoji/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>hugo</title>
+        <link>http://localhost:1313/tags/hugo/</link>
+        <pubDate>Wed, 11 Oct 2017 10:33:41 +0900</pubDate>
+        
+        <guid>http://localhost:1313/tags/hugo/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>Blogging</title>
+        <link>http://localhost:1313/tags/blogging/</link>
+        <pubDate>Sun, 09 Oct 2016 11:44:14 +0900</pubDate>
+        
+        <guid>http://localhost:1313/tags/blogging/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>Development</title>
+        <link>http://localhost:1313/tags/development/</link>
+        <pubDate>Sun, 09 Oct 2016 11:44:14 +0900</pubDate>
+        
+        <guid>http://localhost:1313/tags/development/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>fast</title>
+        <link>http://localhost:1313/tags/fast/</link>
+        <pubDate>Sun, 09 Oct 2016 11:44:14 +0900</pubDate>
+        
+        <guid>http://localhost:1313/tags/fast/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>Go</title>
+        <link>http://localhost:1313/tags/go/</link>
+        <pubDate>Sun, 09 Oct 2016 11:44:14 +0900</pubDate>
+        
+        <guid>http://localhost:1313/tags/go/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>index</title>
+        <link>http://localhost:1313/tags/index/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/tags/index/</guid>
+        <description></description>
+      </item>
+      
+    
+  </channel>
+</rss>

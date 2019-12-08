@@ -1,0 +1,58 @@
+
+[[main]]
+  identifier = "posts"
+  name = "concepts"
+  url = "posts"
+  weight = 1
+    
+[[main]]
+  identifier = "notes"
+  name = "articles"
+  url = "notes"
+  weight = 2
+
+[[main]]
+  identifier = "resources"
+  name = "resources"
+  url = "resources"
+  weight = 3
+    
+[[main]]
+  parent = "resources"
+  name = "tests"
+  url = "resources/tests"
+
+[[main]]
+  parent = "resources"
+  name = "blogs"
+  url = "resources/blogs"
+
+[[main]]
+parent = "resources"
+name = "videos"
+url = "resources/videos"
+
+[[main]]
+parent = "resources"
+name = "papers"
+url = "resources/papers"
+
+[[main]]
+  identifier = "about"
+  name = "about"
+  url = "about"
+  weight = 1
+
+# [[main]]
+#   identifier = "pt"
+#   name = "presentations"
+#   url = "pt"
+#   weight = 5
+
+[[main]]
+  identifier = "archive"
+  name = "archive"
+  url = "archive"
+  weight = 6
+
+

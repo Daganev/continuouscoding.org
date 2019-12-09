@@ -17,7 +17,7 @@ rssLimit = 100
 pygmentsOptions = "linenos=table"
 pygmentsUseClasses = true
 
-googleAnalytics = ""
+googleAnalytics = "UA-6981694-2"
 
 [markup]
   [markup.goldmark]

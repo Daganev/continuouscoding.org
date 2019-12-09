@@ -2,7 +2,7 @@
 title = "What is Continuous Coding?"
 description = "Continuous Coding - helping to increase the feedback loop during development for quicker development with less bugs."
 type = "about"
-date = 2019-12-09
+#date = 2019-12-09
 featured_image=  "/images/feature/cc.jpg"
 +++
 

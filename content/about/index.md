@@ -21,9 +21,9 @@ There are seven high level concepts which all good practices fit in.
 Some concepts might sound like they don't apply to developers, or only to developers with authority. But that is not the case.
 
 - [continuous features](/posts/continuous-features/)
+- [continuous planning](/posts/continuous-planning/)
 - [continuous certification](/posts/continuous-certification/)
 - [continuous communication](/posts/continuous-communication/)
-- [continuous planning](/posts/continuous-planning/)
 - [continuous cooperation](/posts/continuous-cooperation/)
 - [continuous code review](/posts/continuous-code-review/)
 - [continuous refactoring](/posts/continuous-refactoring/)

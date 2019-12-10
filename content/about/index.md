@@ -15,5 +15,17 @@ It is the contention of this group that the safest and most efficient way to acc
 
 JFrog wrote in [Liquid Software](https://www.liquidsoftware.com) that beyond Continuous Deployments we must be able to also implement Continuous Updates. Updates to devices and machines which the software development team does not have direct control. For this future to become our new reality, Continuos Coding practices are a must, lest we endanger people with the software we write.
 
+## Concepts
+Continuous Coding is modeled off eXtreme Programming. 
+There are seven high level concepts which all good practices fit in.
+Some concepts might sound like they don't apply to developers, or only to developers with authority. But that is not the case.
 
+- [continuous features](/posts/continuous-features/)
+- [continuous certification](/posts/continuous-certification/)
+- [continuous communication](/posts/continuous-communication/)
+- [continuous planning](/posts/continuous-planning/)
+- [continuous cooperation](/posts/continuous-cooperation/)
+- [continuous code review](/posts/continuous-code-review/)
+- [continuous refactoring](/posts/continuous-refactoring/)
 
+![](/images/feature/cc.jpg)

@@ -9,4 +9,8 @@ Alternatively, you can take the tests to help you know what you need to understa
 
 Either way, the idea is to validate your assumptions, and get quick feedback on where you are going. Better to take the test and fail quickly, than to implement some ideas and find out it made things worse.
 
+## Tests for SOLID
+- https://www.flexiquiz.com/SC/N/bcbc850d-a6ee-4d76-940a-d016cffac68b 
+
+
 - (Accepting pull requests for new tests)

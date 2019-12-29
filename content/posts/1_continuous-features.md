@@ -1,6 +1,6 @@
 ---
 title: "Continuous Features"
-date: 2019-12-31T12:00:06+09:00
+date: 2019-12-29T12:00:06+09:00
 description: "At the highest level, everything worth working on is a feature. Plan them out, have a goal, determine the customer, define the story."
 tags:
 - agile

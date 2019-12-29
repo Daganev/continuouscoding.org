@@ -5,11 +5,11 @@
   "theme_color": "#FF6188",
   "background_color": "#2D2A2E",
   "icons": [{
-      "src": "http://localhost:1313/logo-192.png",
+      "src": "https://www.continuouscoding.org/logo-192.png",
       "sizes": "192x192",
       "type": "image/png"
     }, {
-      "src": "http://localhost:1313/logo-512.png",
+      "src": "https://www.continuouscoding.org/logo-512.png",
       "sizes": "512x512",
       "type": "image/png"
     }],

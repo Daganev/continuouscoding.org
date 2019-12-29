@@ -3,148 +3,58 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://localhost:1313/ko/archive/</loc>
-    <lastmod>2019-10-19T11:44:14+09:00</lastmod>
+    <loc>https://www.continuouscoding.org/ko/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/archive/"
+                href="https://www.continuouscoding.org/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="http://localhost:1313/ko/archive/"
+                href="https://www.continuouscoding.org/ko/categories/"
                 />
   </url>
   
   <url>
-    <loc>http://localhost:1313/ko/about/</loc>
-    <lastmod>2019-10-09T11:44:14+09:00</lastmod>
+    <loc>https://www.continuouscoding.org/ko/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/about/"
+                href="https://www.continuouscoding.org/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="http://localhost:1313/ko/about/"
+                href="https://www.continuouscoding.org/ko/"
                 />
   </url>
   
   <url>
-    <loc>http://localhost:1313/ko/</loc>
-    <lastmod>2019-10-09T11:44:14+09:00</lastmod>
+    <loc>https://www.continuouscoding.org/ko/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/"
+                href="https://www.continuouscoding.org/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="http://localhost:1313/ko/"
+                href="https://www.continuouscoding.org/ko/series/"
                 />
   </url>
   
   <url>
-    <loc>http://localhost:1313/ko/gallery/</loc>
-    <lastmod>2018-10-12T10:20:16+09:00</lastmod>
+    <loc>https://www.continuouscoding.org/ko/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/gallery/"
+                href="https://www.continuouscoding.org/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="http://localhost:1313/ko/gallery/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/ko/gallery/photo/</loc>
-    <lastmod>2018-10-12T10:20:16+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/gallery/photo/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="http://localhost:1313/ko/gallery/photo/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/ko/gallery/cartoon/</loc>
-    <lastmod>2018-10-11T10:20:16+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/gallery/cartoon/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="http://localhost:1313/ko/gallery/cartoon/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/ko/categories/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="http://localhost:1313/ko/categories/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/ko/posts/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="http://localhost:1313/ko/posts/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/ko/series/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="http://localhost:1313/ko/series/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/ko/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="http://localhost:1313/ko/tags/"
+                href="https://www.continuouscoding.org/ko/tags/"
                 />
   </url>
   

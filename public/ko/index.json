@@ -1,60 +1,6 @@
 [
 {
-	"uri": "http://localhost:1313/ko/archive/",
-	"title": "Archive",
-	"tags": [],
-	"categories": [],
-	"series": [],
-	"description": "Archive Page",
-	"content": "archive page\n"
-},
-{
-	"uri": "http://localhost:1313/ko/about/",
-	"title": "About",
-	"tags": [],
-	"categories": [],
-	"series": [],
-	"description": "About Page",
-	"content": ""
-},
-{
-	"uri": "http://localhost:1313/ko/",
-	"title": "Hugo Zzo Theme",
-	"tags": [],
-	"categories": [],
-	"series": [],
-	"description": "",
-	"content": ""
-},
-{
-	"uri": "http://localhost:1313/ko/gallery/",
-	"title": "Galleries",
-	"tags": [],
-	"categories": [],
-	"series": [],
-	"description": "",
-	"content": ""
-},
-{
-	"uri": "http://localhost:1313/ko/gallery/photo/",
-	"title": "Photo",
-	"tags": [],
-	"categories": [],
-	"series": [],
-	"description": "포토 갤러리",
-	"content": ""
-},
-{
-	"uri": "http://localhost:1313/ko/gallery/cartoon/",
-	"title": "Cartoon",
-	"tags": [],
-	"categories": [],
-	"series": [],
-	"description": "cartoon gallery",
-	"content": ""
-},
-{
-	"uri": "http://localhost:1313/ko/categories/",
+	"uri": "https://www.continuouscoding.org/ko/categories/",
 	"title": "Categories",
 	"tags": [],
 	"categories": [],
@@ -63,16 +9,16 @@
 	"content": ""
 },
 {
-	"uri": "http://localhost:1313/ko/posts/",
-	"title": "Posts",
-	"tags": ["index"],
+	"uri": "https://www.continuouscoding.org/ko/",
+	"title": "Continuous Coding",
+	"tags": [],
 	"categories": [],
 	"series": [],
-	"description": "Post page",
+	"description": "",
 	"content": ""
 },
 {
-	"uri": "http://localhost:1313/ko/series/",
+	"uri": "https://www.continuouscoding.org/ko/series/",
 	"title": "Series",
 	"tags": [],
 	"categories": [],
@@ -81,7 +27,7 @@
 	"content": ""
 },
 {
-	"uri": "http://localhost:1313/ko/tags/",
+	"uri": "https://www.continuouscoding.org/ko/tags/",
 	"title": "Tags",
 	"tags": [],
 	"categories": [],

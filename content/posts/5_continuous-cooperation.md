@@ -5,12 +5,13 @@ description: "Talk to your team mates. Move the whole team to the goal together.
 tags:
 -
 series:
--
+- main concepts
 categories:
-- diagram
-libraries:
-- 
+- continuous coding
 featured_image: "feature/scrum.jpg"
 ---
 
 
+### How does this apply to me as a developer?
+
+- 

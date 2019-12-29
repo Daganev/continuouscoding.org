@@ -3,423 +3,251 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2019-11-30T20:48:10+09:00</lastmod>
+    <loc>https://www.continuouscoding.org/</loc>
+    <lastmod>2019-12-08T21:00:06+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="http://localhost:1313/ko/"
+                href="https://www.continuouscoding.org/ko/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/"
+                href="https://www.continuouscoding.org/"
                 />
   </url>
   
   <url>
-    <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2019-11-30T20:48:10+09:00</lastmod>
+    <loc>https://www.continuouscoding.org/categories/</loc>
+    <lastmod>2019-12-08T21:00:06+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="http://localhost:1313/ko/categories/"
+                href="https://www.continuouscoding.org/ko/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/categories/"
+                href="https://www.continuouscoding.org/categories/"
                 />
   </url>
   
   <url>
-    <loc>http://localhost:1313/presentations/dir/fourth/</loc>
-    <lastmod>2019-11-30T20:48:10+09:00</lastmod>
+    <loc>https://www.continuouscoding.org/posts/</loc>
+    <lastmod>2019-12-08T21:00:06+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/presentations/</loc>
-    <lastmod>2019-11-30T20:48:10+09:00</lastmod>
+    <loc>https://www.continuouscoding.org/categories/continuous-coding/</loc>
+    <lastmod>2019-12-08T21:00:06+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/series/</loc>
-    <lastmod>2019-11-30T20:48:10+09:00</lastmod>
+    <loc>https://www.continuouscoding.org/posts/6_continuous-refactoring/</loc>
+    <lastmod>2019-12-08T21:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.continuouscoding.org/series/main-concepts/</loc>
+    <lastmod>2019-12-08T21:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.continuouscoding.org/tags/refactoring/</loc>
+    <lastmod>2019-12-08T21:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.continuouscoding.org/series/</loc>
+    <lastmod>2019-12-08T21:00:06+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="http://localhost:1313/ko/series/"
+                href="https://www.continuouscoding.org/ko/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/series/"
+                href="https://www.continuouscoding.org/series/"
                 />
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2019-11-30T20:48:10+09:00</lastmod>
+    <loc>https://www.continuouscoding.org/tags/</loc>
+    <lastmod>2019-12-08T21:00:06+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="http://localhost:1313/ko/tags/"
+                href="https://www.continuouscoding.org/ko/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/tags/"
+                href="https://www.continuouscoding.org/tags/"
                 />
   </url>
   
   <url>
-    <loc>http://localhost:1313/presentations/third/</loc>
-    <lastmod>2019-11-30T20:46:30+09:00</lastmod>
+    <loc>https://www.continuouscoding.org/tags/tdd/</loc>
+    <lastmod>2019-12-08T21:00:06+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/presentations/second/</loc>
-    <lastmod>2019-11-30T20:45:24+09:00</lastmod>
+    <loc>https://www.continuouscoding.org/tags/ci/cd/</loc>
+    <lastmod>2019-12-08T18:00:06+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/presentations/first/</loc>
-    <lastmod>2019-11-30T19:45:20+09:00</lastmod>
+    <loc>https://www.continuouscoding.org/tags/code-reviews/</loc>
+    <lastmod>2019-12-08T18:00:06+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/categories/diagram/</loc>
-    <lastmod>2019-11-18T21:00:06+09:00</lastmod>
+    <loc>https://www.continuouscoding.org/posts/7_continuous-code-review/</loc>
+    <lastmod>2019-12-08T18:00:06+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2019-11-18T21:00:06+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="http://localhost:1313/ko/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/posts/"
-                />
+    <loc>https://www.continuouscoding.org/tags/mob-programming/</loc>
+    <lastmod>2019-12-08T18:00:06+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/posts/test-viz/</loc>
-    <lastmod>2019-11-18T21:00:06+09:00</lastmod>
+    <loc>https://www.continuouscoding.org/tags/pair-programming/</loc>
+    <lastmod>2019-12-08T18:00:06+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/posts/test-wavedrom/</loc>
-    <lastmod>2019-11-18T18:00:06+09:00</lastmod>
+    <loc>https://www.continuouscoding.org/tags/assumptions/</loc>
+    <lastmod>2019-12-08T12:00:06+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/posts/test-chartjs/</loc>
+    <loc>https://www.continuouscoding.org/tags/certification/</loc>
+    <lastmod>2019-12-08T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.continuouscoding.org/tags/communication/</loc>
+    <lastmod>2019-12-08T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.continuouscoding.org/posts/3_continuous-certification/</loc>
+    <lastmod>2019-12-08T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.continuouscoding.org/posts/4_continuous-communication/</loc>
+    <lastmod>2019-12-08T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.continuouscoding.org/posts/5_continuous-cooperation/</loc>
+    <lastmod>2019-12-08T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.continuouscoding.org/tags/exams/</loc>
+    <lastmod>2019-12-08T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.continuouscoding.org/tags/meetings/</loc>
+    <lastmod>2019-12-08T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.continuouscoding.org/tags/poc/</loc>
+    <lastmod>2019-12-08T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.continuouscoding.org/tags/psychological-safety/</loc>
+    <lastmod>2019-12-08T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.continuouscoding.org/tags/tracer-bullets/</loc>
+    <lastmod>2019-12-08T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.continuouscoding.org/posts/2_continuous-planning/</loc>
     <lastmod>2019-11-18T12:00:06+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/posts/test-js-sequence-diagrams/</loc>
-    <lastmod>2019-11-18T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/tags/diagram/</loc>
-    <lastmod>2019-11-17T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/posts/test-mermaid/</loc>
-    <lastmod>2019-11-17T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/categories/math/</loc>
+    <loc>https://www.continuouscoding.org/tags/agile/</loc>
     <lastmod>2019-11-16T12:00:06+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/posts/test-mathjax/</loc>
+    <loc>https://www.continuouscoding.org/tags/bdd/</loc>
     <lastmod>2019-11-16T12:00:06+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/posts/test-katext/</loc>
-    <lastmod>2019-11-15T12:00:06+09:00</lastmod>
+    <loc>https://www.continuouscoding.org/posts/1_continuous-features/</loc>
+    <lastmod>2019-11-16T12:00:06+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/posts/test-flowchart/</loc>
-    <lastmod>2019-11-14T12:00:06+09:00</lastmod>
+    <loc>https://www.continuouscoding.org/tags/ddd/</loc>
+    <lastmod>2019-11-16T12:00:06+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/archive/</loc>
-    <lastmod>2019-10-19T11:44:14+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="http://localhost:1313/ko/archive/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/archive/"
-                />
+    <loc>https://www.continuouscoding.org/tags/feature/</loc>
+    <lastmod>2019-11-16T12:00:06+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/css/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <loc>https://www.continuouscoding.org/tags/lean/</loc>
+    <lastmod>2019-11-16T12:00:06+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/html/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <loc>https://www.continuouscoding.org/tags/less/</loc>
+    <lastmod>2019-11-16T12:00:06+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/markdown/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <loc>https://www.continuouscoding.org/tags/safe/</loc>
+    <lastmod>2019-11-16T12:00:06+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/posts/markdown-syntax/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <loc>https://www.continuouscoding.org/tags/scrum/</loc>
+    <lastmod>2019-11-16T12:00:06+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/categories/syntax/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <loc>https://www.continuouscoding.org/archive/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/themes/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <loc>https://www.continuouscoding.org/resources/blogs/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/categories/themes/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <loc>https://www.continuouscoding.org/resources/papers/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/series/themes-guide/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <loc>https://www.continuouscoding.org/resources/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/privacy/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+    <loc>https://www.continuouscoding.org/resources/tests/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/posts/rich-content/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+    <loc>https://www.continuouscoding.org/resources/videos/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/shortcodes/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/posts/placeholder-text/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/tags/text/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/posts/math-typesetting/</loc>
-    <lastmod>2019-03-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/tags/amoji/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/tags/bamoji/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/tags/emoji/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/posts/emoji-support/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/tags/gamoji/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/tags/namoji/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/about/</loc>
-    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="http://localhost:1313/ko/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/about/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/gallery/</loc>
-    <lastmod>2018-10-12T10:20:16+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="http://localhost:1313/ko/gallery/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/gallery/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/gallery/photo/</loc>
-    <lastmod>2018-10-12T10:20:16+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="http://localhost:1313/ko/gallery/photo/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/gallery/photo/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/gallery/cartoon/</loc>
-    <lastmod>2018-10-11T10:20:16+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="http://localhost:1313/ko/gallery/cartoon/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/gallery/cartoon/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/categories/hugo/</loc>
-    <lastmod>2017-10-11T10:33:41+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/tags/hugo/</loc>
-    <lastmod>2017-10-11T10:33:41+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/notes/</loc>
-    <lastmod>2017-10-11T10:33:41+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/notes/hugo/syntax-highlight/</loc>
-    <lastmod>2017-10-11T10:33:41+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/tags/blogging/</loc>
-    <lastmod>2016-10-09T11:44:14+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/categories/ctest/</loc>
-    <lastmod>2016-10-09T11:44:14+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/tags/development/</loc>
-    <lastmod>2016-10-09T11:44:14+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/tags/fast/</loc>
-    <lastmod>2016-10-09T11:44:14+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/tags/go/</loc>
-    <lastmod>2016-10-09T11:44:14+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/series/go-web-dev/</loc>
-    <lastmod>2016-10-09T11:44:14+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/notes/sublist/note-1/</loc>
-    <lastmod>2016-10-09T11:44:14+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/notes/sublist/note-2/</loc>
-    <lastmod>2016-10-09T11:44:14+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/notes/sublist/note-3/</loc>
-    <lastmod>2016-10-09T11:44:14+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/notes/sublist/go/go-1/go-1-1/go-1/</loc>
-    <lastmod>2012-11-01T10:33:41+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/notes/sublist/go/go-1/go-2/</loc>
-    <lastmod>2012-11-01T10:33:41+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/notes/sublist/go/go-4/</loc>
-    <lastmod>2012-11-01T10:33:41+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/notes/sublist/go/go-1/go-1-1/go-1-1-1/go-5/</loc>
-    <lastmod>2012-11-01T10:33:41+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/notes/sublist/</loc>
-    <lastmod>2012-10-09T11:44:14+09:00</lastmod>
+    <loc>https://www.continuouscoding.org/about/</loc>
   </url>
   
 </urlset>

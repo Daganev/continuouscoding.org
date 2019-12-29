@@ -3,6 +3,7 @@ title = "What is Continuous Coding?"
 description = "Continuous Coding - helping to increase the feedback loop during development for quicker development with less bugs."
 type = "about"
 featured_image=  "feature/cc.jpg"
+date=  2019-12-29T14:00:09+10:00
 +++
 
 Continuous Coding is about the software development practices needed to keep the feedback loop short, the project on target, and the marathon endurance to deliver changes faster than the competition.

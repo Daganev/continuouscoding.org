@@ -23,11 +23,13 @@ Why should we take [certification exams](/resources/tests), so we can validate o
 
 Know what you want to do, and know that you can do it.
 
+Don't fall victim to [imposter syndrome or the Dunning-Kruger Effect](http://www.iainjmitchell.com/blog/dunning-kruger).
+
 
 ### How does this apply to me as a developer?
 
 - The first step after knowing the a plan and/or a feature is to verify your assumptions.
 - Certify that you are working on the right thing in the right way.
-- As a developer, this is the time to advocate for [Spikes](https://en.wikipedia.org/wiki/Spike_(software_development)) and [Proof of Concepts](https://en.wikipedia.org/wiki/Proof_of_concept#Software_development) or ["Tracer bullets"](https://concisecoder.io/2018/11/11/tracer-bullet-programming/)
+- As a developer, this is the time to advocate for <a id=spikes/>[Spikes](https://en.wikipedia.org/wiki/Spike_(software_development)) and [Proof of Concepts](https://en.wikipedia.org/wiki/Proof_of_concept#Software_development) or ["Tracer bullets"](https://concisecoder.io/2018/11/11/tracer-bullet-programming/)
 - Certify that your usage of terms is consistent across the company.  In the above example, of Spikes, Tracer Bullets and PoCs, they can all be the same, and they can all be different. [Certify with your team](http://www.gettingagile.com/2007/10/22/research-spikes-tracer-bullets-oh-my/) how you will be doing these things.
 - Always certify.  Take tests to certify your knowledge, communicate to certify your assumptions, work with small focused goals to certify your plans.

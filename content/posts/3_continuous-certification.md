@@ -1,6 +1,6 @@
 ---
 title: "Continuous Certification"
-date: 2019-12-08T12:00:06+09:00
+date: 2019-12-29T12:00:06+09:00
 description: "Not just for pointless pieces of paper. Validate your expectations. Make your expectations clear. Define your acceptance criteria."
 tags:
 - certification

@@ -1,6 +1,6 @@
 ---
 title: "Continuous Planning"
-date: 2019-11-18T12:00:06+09:00
+date: 2019-12-30T12:00:06+09:00
 description: "Keep communication open between all stakeholders. Revise and adapt as new information is learned."
 tags:
 -

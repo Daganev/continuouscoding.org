@@ -1,6 +1,6 @@
 ---
 title: "Continuous Code Review"
-date: 2019-12-08T18:00:06+09:00
+date: 2019-12-25T18:00:06+09:00
 description: "Use pair or mob programming techniques to increase communication and continuously review the code."
 tags:
 - pair programming

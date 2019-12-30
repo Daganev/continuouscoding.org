@@ -1,5 +1,5 @@
 ---
-title: "Research Papers"
+title: "Continuous Research Papers"
 description: "Ideas are just opinions until you have data to back them up. Here are links to research papers."
 ---
 

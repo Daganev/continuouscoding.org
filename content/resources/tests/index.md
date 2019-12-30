@@ -1,5 +1,5 @@
 ---
-title: "Self Assessment tests"
+title: "Continuous Certification Self Assessment tests"
 description: Tests to give you the confidence that you have the skill to implement best practices
 ---
 

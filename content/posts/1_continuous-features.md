@@ -49,4 +49,7 @@ When is the best time to iterate quickly? When you are searching for marker fit,
  - [Conway's law](https://en.wikipedia.org/wiki/Conway%27s_law) is most applicable during the feature definition phase of software development. This means that when practicing continuous coding, the language of the organization, and therefore the language of the variables and classes used within your code is going to be highly correlated to how features are organized.
 
  - For example, if you are working in a LEAN environment, your code will likely be set up as experiments, quick to throw away or be rewritten. If working in an Agile environment your code might be focused around UseCase Classes with the execute() function.
- -
+
+ - When using Domain Driven Design, you will have classes that reference repositories and boundaries.
+
+ - Don't let the language of the domain scare you. They are all techniques with the same goals. Seperation of Concerns, a common metaphor, and adaptability to change at the right level of abstraction.

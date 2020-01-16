@@ -22,15 +22,27 @@ There are numerous ways to define the feedback loop of planning. All of them hav
 
 - LEAN
 - Agile
-- Scrum
-- SAFe
-- Less
+- Scrum, Kanban, XP
+- SAFe, LESS
 - BDD
 - DDD
+- Event Modelling
+- Six Sigma
 
 As a Continuous Coder the how is less important than participating and speaking up if requirements and planning aren't clear.  If you don't know why you are working on something, you will be less able to speak up and fix problems that only you are in a position to notice.
 
 You may not have the authority, but you do have the responsibility. 
+
+
+## How do you know which tool is best for the job?
+
+  * Agile was designed to get small teams to iterate quickly.
+When is the best time to iterate quickly? When you are searching for marker fit, and seeking a solution which can go viral. This can be a startup, or an established company looking to spread.
+  * In contrast, Six Sigma was designed for important critical systems which could cause disaster if they failed. When the company is already established and doing well, you don't want to harm the main source of income.
+  * After a company has found a market fit, but before it's fully established there will be a period of chaotic and rapid growth. During this time, LEAN processes will help alleviate pressure while helping to learn which fires to focus on.
+
+  * Like most techniques in Continuous Coding, none of these strategies will be enough on their own. They need to be paired with other techniques that fit the culture of the company best.
+
 
 ### How does this apply to me as a developer?
 

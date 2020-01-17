@@ -16,3 +16,5 @@ description: "This is a simple list of blogs and websites which delve deeper int
 - [Pragmatic Programmer](https://pragprog.com/book/tpp20/the-pragmatic-programmer-20th-anniversary-edition)
 - [Code Complete]()
 - https://blog.pragmaticengineer.com/
+- [XP Mailling List](https://groups.io/g/extremeprogramming)
+- [TDD Mailing List](https://groups.io/g/testdrivendevelopment/)

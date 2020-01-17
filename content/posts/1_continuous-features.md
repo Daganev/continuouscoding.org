@@ -24,12 +24,12 @@ There are numerous ways to define the feedback loop of planning. All of them hav
 
 - LEAN
 - [Agile](/posts/agile)
-- Scrum , Kanban, XP
-- SAFe, Less
+- Scrum , Kanban, [XP](https://ronjeffries.com/xprog/what-is-extreme-programming/)
+- [SAFe](https://www.scaledagileframework.com/), [Less](https://less.works/)
 - BDD
 - DDD
-- Event Modelling
-- Six Sigma
+- [Event Modelling](https://eventmodeling.org/)
+- [Six Sigma](https://en.wikipedia.org/wiki/Six_Sigma)
 
 As a Continuous Coder the how is less important than participating and speaking up if requirements and planning aren't clear. If you don't know why you are working on something, you will be less able to speak up and fix problems that only you are in a position to notice.
 

@@ -35,23 +35,20 @@ As a Continuous Coder the how is less important than participating and speaking 
 
 You may not have the authority, but you do have the responsibility.
 
+# How do you know which tool is best for the job?
 
-## How do you know which tool is best for the job?
+- Agile was designed to get small teams to iterate quickly. When is the best time to iterate quickly? When you are searching for marker fit, and seeking a solution which can go viral. This can be a startup, or an established company looking to spread.
+- In contrast, Six Sigma was designed for important critical systems which could cause disaster if they failed. When the company is already established and doing well, you don't want to harm the main source of income.
+- After a company has found a market fit, but before it's fully established there will be a period of chaotic and rapid growth. During this time, LEAN processes will help alleviate pressure while helping to learn which fires to focus on.
 
-  * Agile was designed to get small teams to iterate quickly.
-When is the best time to iterate quickly? When you are searching for marker fit, and seeking a solution which can go viral. This can be a startup, or an established company looking to spread.
-  * In contrast, Six Sigma was designed for important critical systems which could cause disaster if they failed. When the company is already established and doing well, you don't want to harm the main source of income.
-  * After a company has found a market fit, but before it's fully established there will be a period of chaotic and rapid growth. During this time, LEAN processes will help alleviate pressure while helping to learn which fires to focus on.
+- Like most techniques in Continuous Coding, none of these strategies will be enough on their own. They need to be paired with other techniques that fit the culture of the company best.
 
-  * Like most techniques in Continuous Coding, none of these strategies will be enough on their own. They need to be paired with other techniques that fit the culture of the company best.
-
-
-### How does this apply to me as a developer?
+## How does this apply to me as a developer?
 
 - [Conway's law](https://en.wikipedia.org/wiki/Conway%27s_law) is most applicable during the feature definition phase of software development. This means that when practicing continuous coding, the language of the organization, and therefore the language of the variables and classes used within your code is going to be highly correlated to how features are organized.
 
- - For example, if you are working in a LEAN environment, your code will likely be set up as experiments, quick to throw away or be rewritten. If working in an Agile environment your code might be focused around UseCase Classes with the execute() function.
+  - For example, if you are working in a LEAN environment, your code will likely be set up as experiments, quick to throw away or be rewritten. If working in an Agile environment your code might be focused around UseCase Classes with the execute() function.
 
- - When using Domain Driven Design, you will have classes that reference repositories and boundaries.
+  - When using Domain Driven Design, you will have classes that reference repositories and boundaries.
 
- - Don't let the language of the domain scare you. They are all techniques with the same goals. Seperation of Concerns, a common metaphor, and adaptability to change at the right level of abstraction.
+  - Don't let the language of the domain scare you. They are all techniques with the same goals. Separation of Concerns, a common metaphor, and adaptability to change at the right level of abstraction.

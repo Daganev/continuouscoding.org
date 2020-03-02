@@ -10,6 +10,8 @@ You don't need high level Scrum or SAFe certificates, if you have the technical 
 
 Attention to detail and discipline about the craft, which begins with whitespace discipline, proper source code formatting, names that reveal intent, and related code conventions. [@unclebobmartin](https://twitter.com/unclebobmartin) calls this "Clean Code". XP calls this "Common Coding Standard".
 
+Learn about Queue theory and the economic principles behind the Cost of Delay and how to make the company you work for the most value possible. Learn how small batch sizes, decentralized decision making, and financial options allows a team to optimize their work in such a way as to produce the greatest amount of throughput with the least amount of utilization needed to accomplish the goals. When utilization is at 100%, the team will be stuck in a traffic jam, unable to be agile or make great progress.
+
 Rigorous coverage and automation of static and dynamic verification of the required behavior and structural quality on development, architecture, and user requirements level.
 
 Test Automation Pyramid:

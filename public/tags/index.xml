@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Sun, 08 Dec 2019 21:00:06 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 29 Dec 2019 03:00:06 +0000</lastBuildDate>
     
         <atom:link href="https://www.continuouscoding.org/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,135 +15,9 @@
     
       
       <item>
-        <title>refactoring</title>
-        <link>https://www.continuouscoding.org/tags/refactoring/</link>
-        <pubDate>Sun, 08 Dec 2019 21:00:06 +0900</pubDate>
-        
-        <guid>https://www.continuouscoding.org/tags/refactoring/</guid>
-        <description></description>
-      </item>
-      
-      <item>
-        <title>tdd</title>
-        <link>https://www.continuouscoding.org/tags/tdd/</link>
-        <pubDate>Sun, 08 Dec 2019 21:00:06 +0900</pubDate>
-        
-        <guid>https://www.continuouscoding.org/tags/tdd/</guid>
-        <description></description>
-      </item>
-      
-      <item>
-        <title>CI/CD</title>
-        <link>https://www.continuouscoding.org/tags/ci/cd/</link>
-        <pubDate>Sun, 08 Dec 2019 18:00:06 +0900</pubDate>
-        
-        <guid>https://www.continuouscoding.org/tags/ci/cd/</guid>
-        <description></description>
-      </item>
-      
-      <item>
-        <title>code reviews</title>
-        <link>https://www.continuouscoding.org/tags/code-reviews/</link>
-        <pubDate>Sun, 08 Dec 2019 18:00:06 +0900</pubDate>
-        
-        <guid>https://www.continuouscoding.org/tags/code-reviews/</guid>
-        <description></description>
-      </item>
-      
-      <item>
-        <title>mob programming</title>
-        <link>https://www.continuouscoding.org/tags/mob-programming/</link>
-        <pubDate>Sun, 08 Dec 2019 18:00:06 +0900</pubDate>
-        
-        <guid>https://www.continuouscoding.org/tags/mob-programming/</guid>
-        <description></description>
-      </item>
-      
-      <item>
-        <title>pair programming</title>
-        <link>https://www.continuouscoding.org/tags/pair-programming/</link>
-        <pubDate>Sun, 08 Dec 2019 18:00:06 +0900</pubDate>
-        
-        <guid>https://www.continuouscoding.org/tags/pair-programming/</guid>
-        <description></description>
-      </item>
-      
-      <item>
-        <title>assumptions</title>
-        <link>https://www.continuouscoding.org/tags/assumptions/</link>
-        <pubDate>Sun, 08 Dec 2019 12:00:06 +0900</pubDate>
-        
-        <guid>https://www.continuouscoding.org/tags/assumptions/</guid>
-        <description></description>
-      </item>
-      
-      <item>
-        <title>certification</title>
-        <link>https://www.continuouscoding.org/tags/certification/</link>
-        <pubDate>Sun, 08 Dec 2019 12:00:06 +0900</pubDate>
-        
-        <guid>https://www.continuouscoding.org/tags/certification/</guid>
-        <description></description>
-      </item>
-      
-      <item>
-        <title>communication</title>
-        <link>https://www.continuouscoding.org/tags/communication/</link>
-        <pubDate>Sun, 08 Dec 2019 12:00:06 +0900</pubDate>
-        
-        <guid>https://www.continuouscoding.org/tags/communication/</guid>
-        <description></description>
-      </item>
-      
-      <item>
-        <title>exams</title>
-        <link>https://www.continuouscoding.org/tags/exams/</link>
-        <pubDate>Sun, 08 Dec 2019 12:00:06 +0900</pubDate>
-        
-        <guid>https://www.continuouscoding.org/tags/exams/</guid>
-        <description></description>
-      </item>
-      
-      <item>
-        <title>meetings</title>
-        <link>https://www.continuouscoding.org/tags/meetings/</link>
-        <pubDate>Sun, 08 Dec 2019 12:00:06 +0900</pubDate>
-        
-        <guid>https://www.continuouscoding.org/tags/meetings/</guid>
-        <description></description>
-      </item>
-      
-      <item>
-        <title>poc</title>
-        <link>https://www.continuouscoding.org/tags/poc/</link>
-        <pubDate>Sun, 08 Dec 2019 12:00:06 +0900</pubDate>
-        
-        <guid>https://www.continuouscoding.org/tags/poc/</guid>
-        <description></description>
-      </item>
-      
-      <item>
-        <title>psychological-safety</title>
-        <link>https://www.continuouscoding.org/tags/psychological-safety/</link>
-        <pubDate>Sun, 08 Dec 2019 12:00:06 +0900</pubDate>
-        
-        <guid>https://www.continuouscoding.org/tags/psychological-safety/</guid>
-        <description></description>
-      </item>
-      
-      <item>
-        <title>tracer-bullets</title>
-        <link>https://www.continuouscoding.org/tags/tracer-bullets/</link>
-        <pubDate>Sun, 08 Dec 2019 12:00:06 +0900</pubDate>
-        
-        <guid>https://www.continuouscoding.org/tags/tracer-bullets/</guid>
-        <description></description>
-      </item>
-      
-      <item>
         <title>agile</title>
         <link>https://www.continuouscoding.org/tags/agile/</link>
-        <pubDate>Sat, 16 Nov 2019 12:00:06 +0900</pubDate>
+        <pubDate>Sun, 29 Dec 2019 03:00:06 +0000</pubDate>
         
         <guid>https://www.continuouscoding.org/tags/agile/</guid>
         <description></description>
@@ -152,7 +26,7 @@
       <item>
         <title>BDD</title>
         <link>https://www.continuouscoding.org/tags/bdd/</link>
-        <pubDate>Sat, 16 Nov 2019 12:00:06 +0900</pubDate>
+        <pubDate>Sun, 29 Dec 2019 03:00:06 +0000</pubDate>
         
         <guid>https://www.continuouscoding.org/tags/bdd/</guid>
         <description></description>
@@ -161,7 +35,7 @@
       <item>
         <title>DDD</title>
         <link>https://www.continuouscoding.org/tags/ddd/</link>
-        <pubDate>Sat, 16 Nov 2019 12:00:06 +0900</pubDate>
+        <pubDate>Sun, 29 Dec 2019 03:00:06 +0000</pubDate>
         
         <guid>https://www.continuouscoding.org/tags/ddd/</guid>
         <description></description>
@@ -170,7 +44,7 @@
       <item>
         <title>Feature</title>
         <link>https://www.continuouscoding.org/tags/feature/</link>
-        <pubDate>Sat, 16 Nov 2019 12:00:06 +0900</pubDate>
+        <pubDate>Sun, 29 Dec 2019 03:00:06 +0000</pubDate>
         
         <guid>https://www.continuouscoding.org/tags/feature/</guid>
         <description></description>
@@ -179,7 +53,7 @@
       <item>
         <title>LEAN</title>
         <link>https://www.continuouscoding.org/tags/lean/</link>
-        <pubDate>Sat, 16 Nov 2019 12:00:06 +0900</pubDate>
+        <pubDate>Sun, 29 Dec 2019 03:00:06 +0000</pubDate>
         
         <guid>https://www.continuouscoding.org/tags/lean/</guid>
         <description></description>
@@ -188,7 +62,7 @@
       <item>
         <title>Less</title>
         <link>https://www.continuouscoding.org/tags/less/</link>
-        <pubDate>Sat, 16 Nov 2019 12:00:06 +0900</pubDate>
+        <pubDate>Sun, 29 Dec 2019 03:00:06 +0000</pubDate>
         
         <guid>https://www.continuouscoding.org/tags/less/</guid>
         <description></description>
@@ -197,7 +71,7 @@
       <item>
         <title>SAFe</title>
         <link>https://www.continuouscoding.org/tags/safe/</link>
-        <pubDate>Sat, 16 Nov 2019 12:00:06 +0900</pubDate>
+        <pubDate>Sun, 29 Dec 2019 03:00:06 +0000</pubDate>
         
         <guid>https://www.continuouscoding.org/tags/safe/</guid>
         <description></description>
@@ -206,9 +80,135 @@
       <item>
         <title>Scrum</title>
         <link>https://www.continuouscoding.org/tags/scrum/</link>
-        <pubDate>Sat, 16 Nov 2019 12:00:06 +0900</pubDate>
+        <pubDate>Sun, 29 Dec 2019 03:00:06 +0000</pubDate>
         
         <guid>https://www.continuouscoding.org/tags/scrum/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>assumptions</title>
+        <link>https://www.continuouscoding.org/tags/assumptions/</link>
+        <pubDate>Fri, 27 Dec 2019 12:00:06 +0900</pubDate>
+        
+        <guid>https://www.continuouscoding.org/tags/assumptions/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>certification</title>
+        <link>https://www.continuouscoding.org/tags/certification/</link>
+        <pubDate>Fri, 27 Dec 2019 12:00:06 +0900</pubDate>
+        
+        <guid>https://www.continuouscoding.org/tags/certification/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>exams</title>
+        <link>https://www.continuouscoding.org/tags/exams/</link>
+        <pubDate>Fri, 27 Dec 2019 12:00:06 +0900</pubDate>
+        
+        <guid>https://www.continuouscoding.org/tags/exams/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>poc</title>
+        <link>https://www.continuouscoding.org/tags/poc/</link>
+        <pubDate>Fri, 27 Dec 2019 12:00:06 +0900</pubDate>
+        
+        <guid>https://www.continuouscoding.org/tags/poc/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>tracer-bullets</title>
+        <link>https://www.continuouscoding.org/tags/tracer-bullets/</link>
+        <pubDate>Fri, 27 Dec 2019 12:00:06 +0900</pubDate>
+        
+        <guid>https://www.continuouscoding.org/tags/tracer-bullets/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>communication</title>
+        <link>https://www.continuouscoding.org/tags/communication/</link>
+        <pubDate>Thu, 26 Dec 2019 03:00:06 +0000</pubDate>
+        
+        <guid>https://www.continuouscoding.org/tags/communication/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>meetings</title>
+        <link>https://www.continuouscoding.org/tags/meetings/</link>
+        <pubDate>Thu, 26 Dec 2019 03:00:06 +0000</pubDate>
+        
+        <guid>https://www.continuouscoding.org/tags/meetings/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>psychological-safety</title>
+        <link>https://www.continuouscoding.org/tags/psychological-safety/</link>
+        <pubDate>Thu, 26 Dec 2019 03:00:06 +0000</pubDate>
+        
+        <guid>https://www.continuouscoding.org/tags/psychological-safety/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>refactoring</title>
+        <link>https://www.continuouscoding.org/tags/refactoring/</link>
+        <pubDate>Tue, 24 Dec 2019 21:00:06 +0900</pubDate>
+        
+        <guid>https://www.continuouscoding.org/tags/refactoring/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>tdd</title>
+        <link>https://www.continuouscoding.org/tags/tdd/</link>
+        <pubDate>Tue, 24 Dec 2019 21:00:06 +0900</pubDate>
+        
+        <guid>https://www.continuouscoding.org/tags/tdd/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>CI/CD</title>
+        <link>https://www.continuouscoding.org/tags/ci/cd/</link>
+        <pubDate>Mon, 23 Dec 2019 09:00:06 +0000</pubDate>
+        
+        <guid>https://www.continuouscoding.org/tags/ci/cd/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>code reviews</title>
+        <link>https://www.continuouscoding.org/tags/code-reviews/</link>
+        <pubDate>Mon, 23 Dec 2019 09:00:06 +0000</pubDate>
+        
+        <guid>https://www.continuouscoding.org/tags/code-reviews/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>mob programming</title>
+        <link>https://www.continuouscoding.org/tags/mob-programming/</link>
+        <pubDate>Mon, 23 Dec 2019 09:00:06 +0000</pubDate>
+        
+        <guid>https://www.continuouscoding.org/tags/mob-programming/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>pair programming</title>
+        <link>https://www.continuouscoding.org/tags/pair-programming/</link>
+        <pubDate>Mon, 23 Dec 2019 09:00:06 +0000</pubDate>
+        
+        <guid>https://www.continuouscoding.org/tags/pair-programming/</guid>
         <description></description>
       </item>
       

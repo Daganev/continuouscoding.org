@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Sun, 08 Dec 2019 21:00:06 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 29 Dec 2019 03:00:06 +0000</lastBuildDate>
     
         <atom:link href="https://www.continuouscoding.org/posts/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,59 +15,19 @@
     
       
       <item>
-        <title>Continuous Refactoring</title>
-        <link>https://www.continuouscoding.org/posts/6_continuous-refactoring/</link>
-        <pubDate>Sun, 08 Dec 2019 21:00:06 +0900</pubDate>
+        <title>Continuous Features</title>
+        <link>https://www.continuouscoding.org/posts/1_continuous-features/</link>
+        <pubDate>Sun, 29 Dec 2019 03:00:06 +0000</pubDate>
         
-        <guid>https://www.continuouscoding.org/posts/6_continuous-refactoring/</guid>
-        <description>How does this apply to me as a developer?  This entire section is all about being a developer. The real question is; How does this apply to other team members? For the team leads. Every step in the red/green/refactor cycle should be quick. If it&#39;s not quick you don&#39;t have a good plan For QA. Get involved with the testing plans early. Prepare the end to end and acceptance tests which the TDD cycle can enhance.</description>
-      </item>
-      
-      <item>
-        <title>Continuous Code Review</title>
-        <link>https://www.continuouscoding.org/posts/7_continuous-code-review/</link>
-        <pubDate>Sun, 08 Dec 2019 18:00:06 +0900</pubDate>
-        
-        <guid>https://www.continuouscoding.org/posts/7_continuous-code-review/</guid>
-        <description>Pair or Mob Programing How does this apply to me as a developer?  Always pair when you can. You want to avoid dead time by waiting for code reviews. Instead advocate for code reviews during the pairing. During the pairing, you will talk about what you are doing, how you are doing it, and why you are doing it. By reviewing the code during the session, you also review the plan.</description>
-      </item>
-      
-      <item>
-        <title>Continuous Certification</title>
-        <link>https://www.continuouscoding.org/posts/3_continuous-certification/</link>
-        <pubDate>Sun, 08 Dec 2019 12:00:06 +0900</pubDate>
-        
-        <guid>https://www.continuouscoding.org/posts/3_continuous-certification/</guid>
-        <description>Certification has gotten a bad reputation, but if approached correctly, it&#39;s invaluable.
-Why do we write acceptance tests, and user stories? So we can certify our programs.
-Why should we take certification exams, so we can validate our skill sets before moving forward.
-Know what you want to do, and know that you can do it.
-How does this apply to me as a developer?  The first step after knowing the a plan and/or a feature is to verify your assumptions.</description>
-      </item>
-      
-      <item>
-        <title>Continuous Communication</title>
-        <link>https://www.continuouscoding.org/posts/4_continuous-communication/</link>
-        <pubDate>Sun, 08 Dec 2019 12:00:06 +0900</pubDate>
-        
-        <guid>https://www.continuouscoding.org/posts/4_continuous-communication/</guid>
-        <description>Topics for Continuous Communication
- Daily scrum blockers and help requests regular statements of mistakes, alternatives or concerns Psychological Safety  How does this apply to me as a developer? </description>
-      </item>
-      
-      <item>
-        <title>Continuous Cooperation</title>
-        <link>https://www.continuouscoding.org/posts/5_continuous-cooperation/</link>
-        <pubDate>Sun, 08 Dec 2019 12:00:06 +0900</pubDate>
-        
-        <guid>https://www.continuouscoding.org/posts/5_continuous-cooperation/</guid>
-        <description>How does this apply to me as a developer?    </description>
+        <guid>https://www.continuouscoding.org/posts/1_continuous-features/</guid>
+        <description>There are numerous ways to define the feedback loop of planning. All of them have the same goal of generating the big picture.
+ LEAN Agile Scrum , Kanban, XP SAFe, Less BDD DDD Event Modelling Six Sigma  As a Continuous Coder the how is less important than participating and speaking up if requirements and planning aren&#39;t clear. If you don&#39;t know why you are working on something, you will be less able to speak up and fix problems that only you are in a position to notice.</description>
       </item>
       
       <item>
         <title>Continuous Planning</title>
         <link>https://www.continuouscoding.org/posts/2_continuous-planning/</link>
-        <pubDate>Mon, 18 Nov 2019 12:00:06 +0900</pubDate>
+        <pubDate>Sat, 28 Dec 2019 03:00:06 +0000</pubDate>
         
         <guid>https://www.continuouscoding.org/posts/2_continuous-planning/</guid>
         <description>Planning is an important aspect of continuous coding. Many have the misconception that if you are working continuously then planning merges into other processes, but this is a mistake.
@@ -76,13 +36,69 @@ There are two scales at which one needs to plan. There is the high level, long t
       </item>
       
       <item>
-        <title>Continuous Features</title>
-        <link>https://www.continuouscoding.org/posts/1_continuous-features/</link>
-        <pubDate>Sat, 16 Nov 2019 12:00:06 +0900</pubDate>
+        <title>Continuous Certification</title>
+        <link>https://www.continuouscoding.org/posts/3_continuous-certification/</link>
+        <pubDate>Fri, 27 Dec 2019 12:00:06 +0900</pubDate>
         
-        <guid>https://www.continuouscoding.org/posts/1_continuous-features/</guid>
-        <description>There are numerous ways to define the feedback loop of planning. All of them have the same goal of generating the big picture.
- LEAN Agile Scrum SAFe Less BDD DDD  As a Continuous Coder the how is less important than participating and speaking up if requirements and planning aren&#39;t clear. If you don&#39;t know why you are working on something, you will be less able to speak up and fix problems that only you are in a position to notice.</description>
+        <guid>https://www.continuouscoding.org/posts/3_continuous-certification/</guid>
+        <description>Certification has gotten a bad reputation, but if approached correctly, it&#39;s invaluable.
+Why do we write acceptance tests, and user stories? So we can certify our programs.
+Why should we take certification exams, so we can validate our skill sets before moving forward.
+Know what you want to do, and know that you can do it.
+Don&#39;t fall victim to imposter syndrome or the Dunning-Kruger Effect.
+How does this apply to me as a developer?</description>
+      </item>
+      
+      <item>
+        <title>Continuous Communication</title>
+        <link>https://www.continuouscoding.org/posts/4_continuous-communication/</link>
+        <pubDate>Thu, 26 Dec 2019 03:00:06 +0000</pubDate>
+        
+        <guid>https://www.continuouscoding.org/posts/4_continuous-communication/</guid>
+        <description>Topics for Continuous Communication
+ Daily scrum blockers and help requests regular statements of mistakes, alternatives or concerns Psychological Safety  How does this apply to me as a developer? Why does one need to continuously communicate? What benefit does that bring to both the developer and the company? Isn&#39;t it more efficient and a better use of my time if I complete what I&#39;m working on and not bother others?</description>
+      </item>
+      
+      <item>
+        <title>Continuous Cooperation</title>
+        <link>https://www.continuouscoding.org/posts/5_continuous-cooperation/</link>
+        <pubDate>Wed, 25 Dec 2019 03:00:06 +0000</pubDate>
+        
+        <guid>https://www.continuouscoding.org/posts/5_continuous-cooperation/</guid>
+        <description>Most software development teams are actually software development groups. Don&#39;t be part of a group, be part of a team.
+What does this mean? What&#39;s the difference?
+A software development group is a group of people who happen to share the same general environment, but which act independently for their own concerns with their own motivations. For example, a group of people at the airport all want to get onto the same plane, and they each worry about their tickets and belongings.</description>
+      </item>
+      
+      <item>
+        <title>Continuous Refactoring</title>
+        <link>https://www.continuouscoding.org/posts/6_continuous-refactoring/</link>
+        <pubDate>Tue, 24 Dec 2019 21:00:06 +0900</pubDate>
+        
+        <guid>https://www.continuouscoding.org/posts/6_continuous-refactoring/</guid>
+        <description>Continuous Refactoring Continuous refactoring is what we need to do to maintain Continuous Integrations and to make sure our pipelines for Continuous Delivery stay robust and maintain our confidence.
+Continuous refactoring means that you are constantly improving the structure of your code so that the next change is easier to make, and the next developer is realistically confident about the changes they are making.
+When does continuous refactoring happen? Continuously! Ha ha, but seriously, when?</description>
+      </item>
+      
+      <item>
+        <title>Continuous Code Review</title>
+        <link>https://www.continuouscoding.org/posts/7_continuous-code-review/</link>
+        <pubDate>Mon, 23 Dec 2019 09:00:06 +0000</pubDate>
+        
+        <guid>https://www.continuouscoding.org/posts/7_continuous-code-review/</guid>
+        <description>Pair or Mob Programing Mob and Pair programming are great techniques to improve the quality and stability of the code you produce. Programming with extra sets of eyeballs creates three main competitive advantages.
+ Both implicit and explicit knowledge is transferred between team members. New skills and team standards can be learned quicker than if studied independently. Sticky or tough issues get resolved more quickly, as answers come from unexpected places.</description>
+      </item>
+      
+      <item>
+        <title></title>
+        <link>https://www.continuouscoding.org/posts/agile/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://www.continuouscoding.org/posts/agile/</guid>
+        <description>Continuous Coding with Agile A quick summary of agile inspired by the tweets‍ of Christian Hujer @christianhujer
+Nothing is more agile than gaining quick confidence After making a change, you have 90% confidence within 10 seconds, and 100% confidence within 10 minutes that the change can be released, and then you do so. This ability gives you more continuous certification, than any actual certificate. Continuous Coders embrace change, with fast feedback and Continuous everything.</description>
       </item>
       
     

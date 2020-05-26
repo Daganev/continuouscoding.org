@@ -13,7 +13,7 @@ timeout = 10000
 enableEmoji = true
 paginate = 13
 rssLimit = 100 
-
+ 
 pygmentsOptions = "linenos=table"
 pygmentsUseClasses = true
 

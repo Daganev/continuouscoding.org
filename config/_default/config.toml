@@ -1,6 +1,6 @@
 baseURL = "https://www.continuouscoding.org/"
 title = "Continuos Coding"
-theme = "timer-hugo"
+theme = "zzo"
 
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false

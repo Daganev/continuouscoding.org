@@ -1,6 +1,8 @@
 ---
 title: Continuous Cooperation
 date: 2019-12-25T03:00:06.000Z
+type: portfolio
+category:  ["concepts"]
 description: >-
   Talk to your team mates. Move the whole team to the goal together. That means
   everybody, not just other developers.
@@ -10,7 +12,7 @@ series:
   - main concepts
 categories:
   - continuous coding
-featured_image: feature/scrum.jpg
+image:  images/feature/scrum.jpg
 ---
 
 Most software development teams are actually software development groups. Don't be part of a group, be part of a team.

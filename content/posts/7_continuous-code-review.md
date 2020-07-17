@@ -1,6 +1,8 @@
 ---
 title: Continuous Code Review
 date: 2019-12-23T09:00:06.000Z
+type: portfolio
+category:  ["concepts"]
 description: >-
   Use pair or mob programming techniques to increase communication and
   continuously review the code.
@@ -13,7 +15,7 @@ series:
   - main concepts
 categories:
   - continuous coding
-featured_image: feature/Mob_prog.jpg
+image:  images/feature/Mob_prog.jpg
 ---
 
 # Pair or Mob Programing

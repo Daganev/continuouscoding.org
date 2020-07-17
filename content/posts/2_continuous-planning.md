@@ -1,6 +1,8 @@
 ---
 title: Continuous Planning
 date: 2019-12-28T03:00:06.000Z
+type: portfolio
+category: ["concepts"]
 description: >-
   Keep communication open between all stakeholders. Revise and adapt as new
   information is learned.
@@ -10,7 +12,7 @@ series:
   - main concepts
 categories:
   - continuous coding
-featured_image: feature/planning.png
+image: images/feature/planning.png
 ---
 
 Planning is an important aspect of continuous coding. Many have the misconception that if you are working continuously then planning merges into other processes, but this is a mistake.

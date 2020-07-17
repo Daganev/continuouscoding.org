@@ -2,6 +2,8 @@
 title: "Continuous Certification"
 date: 2019-12-27T12:00:06+09:00
 description: "Not just for pointless pieces of paper. Validate your expectations. Make your expectations clear. Define your acceptance criteria."
+type: portfolio
+category:  ["concepts"]
 tags:
 - certification
 - poc
@@ -12,7 +14,7 @@ series:
 - main concepts
 categories:
 - continuous coding
-featured_image: "feature/certification.jpg"
+image:  "images/feature/certification.jpg"
 ---
 
 Certification has gotten a bad reputation, but if approached correctly, it's invaluable.

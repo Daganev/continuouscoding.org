@@ -49,8 +49,10 @@
                     <h5>date</h5>
                     <h6>{{ . }}</h6>
                     {{ end }}
-                    <h5>category</h5>
-                    <h6>Investment, Business</h6>
+                    <h5>Description</h5>
+                    {{ with .Params.description }}
+                    <h6>{{ . }}</h6>
+                    {{ end }}
                     {{ with .Params.location }}
                     <h5>locations</h5>
                     <h6>{{ . }}</h6>

@@ -1,6 +1,8 @@
 ---
 title: Continuous Communication
 date: 2019-12-26T03:00:06.000Z
+type: portfolio
+category:  ["concepts"]
 description: >-
   How do you communicate? The largest predictive indicator of what makes a
   successful team is open communication with psychological safety
@@ -12,7 +14,7 @@ series:
   - main concepts
 categories:
   - continuous coding
-featured_image: feature/communicate.jpg
+image:  images/feature/communicate.jpg
 ---
 
 Topics for Continuous Communication

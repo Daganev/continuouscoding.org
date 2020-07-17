@@ -1,9 +1,11 @@
 ---
 title: Continuous Features
 date: 2019-12-29T03:00:06.000Z
-description: >-
-  At the highest level, everything worth working on is a feature. Plan them out,
-  have a goal, determine the customer, define the story.
+type: portfolio
+category: ["continuous coding"]
+description: "At the highest level, everything worth working on is a feature. Plan them out,
+  have a goal, determine the customer, define the story."
+caption: "Features, Use Cases, Stories"
 tags:
   - agile
   - LEAN
@@ -15,10 +17,9 @@ tags:
   - Feature
 series:
   - main concepts
-categories:
-  - continuous coding
-featured_image: feature/feature.jpg
+image: /images/feature/feature.jpg
 ---
+
 
 There are numerous ways to define the feedback loop of planning. All of them have the same goal of generating the big picture.
 

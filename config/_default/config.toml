@@ -1,6 +1,6 @@
 baseURL = "https://www.continuouscoding.org/"
 title = "Continuos Coding"
-theme = "zzo"
+theme = "timer-hugo"
 
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
@@ -24,8 +24,102 @@ googleAnalytics = "UA-6981694-2"
     [markup.goldmark.renderer]
       unsafe = true
 
+
+# We Used Ionicons Icon font for Icon, for more details check this link - https://ionicons.com/
+
+# Navbar Menus
+[[menu.main]]
+name    = "About"
+url     = "about"
+weight  = 2
+[[menu.main]]
+name    = "Service"
+url     = "service"
+weight  = 3
+[[menu.main]]
+name    = "Gallery"
+url     = "gallery"
+weight  = 4
+[[menu.main]]
+name    = "Blog"
+url     = "blog"
+weight  = 5
+[[menu.main]]
+name    = "Contact"
+url     = "contact"
+weight  = 6
+
+# Site Params
+[params]
+home = "Home"
+logo = "images/logo.png"
+dateFormat = "6 January 2006"
+# Meta data
+description = "ContinuousCoding.org. Faster feedbacks for faster development."
+author = "Daganev"
+# Google Analitycs
+googleAnalitycsID = "Your ID"
+# contact form action
+contactFormAction = "#" # contact form works with https://formspree.io
+
+# Banner Section
+[params.banner]
+enable  = true
+bgImage = "images/feature/cc.jpg"
+heading = "Continuous feedback at every phase for faster development."
+description = "WELCOME TO CONTINUOUS CODING. IDEAS AND ADVICE TO CONTINUOUSLY IMPROVE YOUR DEVELOPMENT."
+# button
+btn     = true
+btnText = "Dive In"
+btnURL  = "/concepts"
+
+# flip text
+[[params.banner.flipText]]
+title   = "Continuous Delivery needs"
+[[params.banner.flipText]]
+title   = "Continuous Integration, which needs"
+[[params.banner.flipText]]
+title   = "Continuous Coding"
+
+# Homepage About Section
+[params.about]
+enable  = true
+title   = "ABOUT Continuous Coding"
+content = "Continuous Coding is about the software development practices needed to deliver changes faster than the competition by:<li>Keeping the feedback loop short</li><li>Keeping the project on target</li><li>Maintaining marathon endurance</li><br><br>Inspired by a conversation in the <a href=https://groups.io/g/extremeprogramming/message/160439>extreme programming email group</a> ContinuosCoding.org aims to inspire developers to implement the practices needed to write code which has <b>few bugs, continuously improved, and easy to change.</b> <a href=https://www.devops-research.com >Evidence has proven</a> that companies which are able to implement Continuous Deployment have less bugs and are more competitive than companies which don't. Companies which are able to enable a DevOps culture, report even greater quality of software and services. In order to accomplish a Continuous Deployment a company needs to be able to first implement Continuous Integration. Moving beyond XP, It is the contention of this group that the safest and most efficient way to accomplish Continuous integration is to practice Continuous Coding.<br><br>JFrog wrote in <a href=https://www.liquidsoftware.com>Liquid Software</a> that beyond Continuous Deployments we must be able to also implement Continuous Updates. Updates to devices and machines which the software development team does not have direct control. For this future to become our new reality, Continuos Coding practices are a must, lest we endanger people with the software we write."
+image   = "images/whoami/avatar.jpg"
+
+# Call to Action
+[params.cta]
+enable  = true
+title   = "SO WHAT DO YOU THINK ?"
+content = "This site is a collaborative effort.<br>What do you want to see here?<br>Which articles are lacking or outdated?"
+btnText = "Contribute"
+btnURL  = "https://github.com/akessner/continuouscoding.org"
+
+# Portfolio Section On Homepage
+[params.portfolio]
+enable  = true
+title   = "Continuous Coding Concepts"
+subtitle = "Continuous Coding is modeled off eXtreme Programming. There are seven high level concepts which all good practices fit in. Some concepts might sound like they don't apply to developers, or only to developers with authority. But that is not the case."
+
+# social icons
+[[params.socialIcon]]
+icon = "ion-social-github"
+url = "https://github.com/akessner/continuouscoding.org"
+
+[[params.socialIcon]]
+icon = "ion-social-twitter"
+url = "https://www.twitter.com/daganev"
+
+# [[params.socialIcon]]
+# icon = "ion-social-linkedin"
+# url = "#"
+
+
+
+
 [outputs]
-  home = ["HTML", "RSS", "JSON", "WEBMANIFEST"]
+  home = ["HTML", "RSS"]
 
 [mediaTypes."application/manifest+json"]
   suffixes = ["webmanifest"]

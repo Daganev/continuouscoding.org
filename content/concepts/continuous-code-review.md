@@ -36,5 +36,5 @@ Many people fear that they would hate to work with multiple people when they are
 
 ## How does this apply to me as a developer?
 
-- Always mob/pair when you can. You want to avoid dead time by waiting for code reviews. Instead advocate for code reviews during the pairing.
-- During the pairing, you will talk about what you are doing, how you are doing it, and [why you are doing it](/posts/2_continuous-planning). By reviewing the code during the session, you also [review the plan](/posts/3_continuous-certification).
+- Always mob/pair when you can. You want to avoid dead time by waiting for code reviews. Instead, advocate for code reviews during the pairing.
+- During the pairing, you will talk about what you are doing, how you are doing it, and [why you are doing it](/concepts/continuous-planning). By reviewing the code during the session, you also [review the plan](/concepts/continuous-certification).

@@ -21,12 +21,12 @@ Continuous Coding is modeled off eXtreme Programming.
 There are seven high level concepts which all good practices fit in.
 Some concepts might sound like they don't apply to developers, or only to developers with authority. But that is not the case.
 
-- [continuous features](/posts/continuous-features/)
-- [continuous planning](/posts/continuous-planning/)
-- [continuous certification](/posts/continuous-certification/)
-- [continuous communication](/posts/continuous-communication/)
-- [continuous cooperation](/posts/continuous-cooperation/)
-- [continuous code review](/posts/continuous-code-review/)
-- [continuous refactoring](/posts/continuous-refactoring/)
+- [continuous features](/concepts/continuous-features/)
+- [continuous planning](/concepts/continuous-planning/)
+- [continuous certification](/concepts/continuous-certification/)
+- [continuous communication](/concepts/continuous-communication/)
+- [continuous cooperation](/concepts/continuous-cooperation/)
+- [continuous code review](/concepts/continuous-code-review/)
+- [continuous refactoring](/concepts/continuous-refactoring/)
 
 ![](/images/feature/cc.jpg)

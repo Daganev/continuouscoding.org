@@ -1,16 +1,10 @@
 
 [[main]]
-  identifier = "posts"
+  identifier = "concepts"
   name = "concepts"
-  url = "posts"
+  url = "concepts"
   weight = 1
     
-[[main]]
-  identifier = "notes"
-  name = "articles"
-  url = "notes"
-  weight = 2
-
 [[main]]
   identifier = "resources"
   name = "resources"
@@ -42,17 +36,5 @@ url = "resources/papers"
   name = "about"
   url = "about"
   weight = 1
-
-# [[main]]
-#   identifier = "pt"
-#   name = "presentations"
-#   url = "pt"
-#   weight = 5
-
-[[main]]
-  identifier = "archive"
-  name = "archive"
-  url = "archive"
-  weight = 6
 
 

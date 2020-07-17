@@ -52,13 +52,13 @@ weight  = 6
 # Site Params
 [params]
 home = "Home"
-logo = "images/logo.png"
+logo = "images/feature/logo.png"
 dateFormat = "6 January 2006"
 # Meta data
 description = "ContinuousCoding.org. Faster feedbacks for faster development."
 author = "Daganev"
 # Google Analitycs
-googleAnalitycsID = "Your ID"
+googleAnalitycsID = "UA-6981694-2"
 # contact form action
 contactFormAction = "#" # contact form works with https://formspree.io
 

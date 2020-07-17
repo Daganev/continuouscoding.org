@@ -24,7 +24,7 @@ image: /images/feature/feature.jpg
 There are numerous ways to define the feedback loop of planning. All of them have the same goal of generating the big picture.
 
 - LEAN
-- [Agile](/posts/agile)
+- [Agile](/concepts/agile)
 - Scrum , Kanban, [XP](https://ronjeffries.com/xprog/what-is-extreme-programming/)
 - [SAFe](https://www.scaledagileframework.com/), [Less](https://less.works/)
 - BDD

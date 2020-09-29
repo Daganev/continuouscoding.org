@@ -12,8 +12,8 @@ copyright = "&copy;{year}, All Rights Reserved"
 timeout = 10000
 enableEmoji = true
 paginate = 13
-rssLimit = 100 
- 
+rssLimit = 100
+
 pygmentsOptions = "linenos=table"
 pygmentsUseClasses = true
 
@@ -65,7 +65,7 @@ contactFormAction = "#" # contact form works with https://formspree.io
 # Banner Section
 [params.banner]
 enable  = true
-bgImage = "images/feature/cc.jpg"
+bgImage = "images/feature/cc.svg"
 heading = "Continuous feedback at every phase for faster development."
 description = "WELCOME TO CONTINUOUS CODING. IDEAS AND ADVICE TO CONTINUOUSLY IMPROVE YOUR DEVELOPMENT."
 # button

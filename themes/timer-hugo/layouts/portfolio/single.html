@@ -8,11 +8,11 @@
                 <div class="block">
                     <h2>{{ .Title }}</h2>
                     <div class="portfolio-meta">
-                        <!-- <span>{{ .Date.Format "2006-01-02" }}</span>| -->
+                        <span>{{ .Date.Format "2006-01-02" }}</span>|
                         <span> Category: {{ delimit .Params.category ", " }}</span>|
-                        <!-- <span> website:
+                        <span> website:
                             <a href="{{ .Params.liveLink }}">{{ .Params.liveLink }}</a>
-                        </span> -->
+                        </span>
                     </div>
                 </div>
             </div>
@@ -49,10 +49,8 @@
                     <h5>date</h5>
                     <h6>{{ . }}</h6>
                     {{ end }}
-                    <h5>Description</h5>
-                    {{ with .Params.description }}
-                    <h6>{{ . }}</h6>
-                    {{ end }}
+                    <h5>category</h5>
+                    <h6>Investment, Business</h6>
                     {{ with .Params.location }}
                     <h5>locations</h5>
                     <h6>{{ . }}</h6>

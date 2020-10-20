@@ -1,3 +1,8 @@
+---
+title: "Continuous viglance"
+description: "Avoid burn out by avoiding bad working conditious, no matter how attractive"
+---
+
 ## Continuous Coding does not mean "Code until you drop"
 
 I recently came across a job posting which raised all sorts of red flags for me.

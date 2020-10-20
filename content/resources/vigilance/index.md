@@ -1,7 +1,7 @@
 ---
 title: "Continuous vigilance"
 description: "Avoid burn out by avoiding bad working conditious, no matter how attractive"
-date: 18/10/2020
+date: 2020-10-20T12:00:00+03:00
 ---
 
 ## Continuous Coding does not mean "Code until you drop"

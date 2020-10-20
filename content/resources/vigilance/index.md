@@ -13,9 +13,9 @@ This article will point out all the red flags in this posting to help protect yo
 
 Below, is the job post in full. Excuse the formating. I've removed some details to protect the guilty. Read it, get enticed, and then we will dive into it.
 
-If you don't want to read the whole thing, [click here]({{< relref "index.md#explanation" >}} | "to dive in").
+If you don't want to read the whole thing, [click here]({{< ref "#explanation" >}}) "to dive in".
 
-> *Chief Architect (Remote) - $400,000/year USD*
+> **Chief Architect (Remote) - $400,000/year USD**
 > Company Name < > Company Location <non US location>  
 > Posted DatePosted 1 day ago  
 >  Are you the best software architect in your company? Can you identify patterns in complex systems and see ways to make them 10x simpler? Do you enjoy designing software that maximizes use of existing code? Do you wish you could expand your technical career without requiring more and more time on HR and project management? If so, you’ll love our approach of driving the direction of products starting with the core technology.
@@ -29,31 +29,31 @@ If you don't want to read the whole thing, [click here]({{< relref "index.md#exp
 >   Can the product be broken down logically into smaller, more manageable components? Are there well-defined interfaces, or seams, between those components? Or are they all interconnected?  
 >   What is the critical opinion of a fresh set of eyes when looking at old decisions? Are there architecture or design anti-patterns present in the fundamental technical decisions?  
 >  In this role you will also learn and practice the high-impact skill of clear written communication, as this enables your scale and broad impact across the organization.  
->  *What You Will Be Doing*  
+>  **What You Will Be Doing**  
 >   Each week you will have a different design problem to work on and technical spec to create. The assignments may make iterative progress on a larger problem, or be smaller and targeted design problems. You will have the opportunity to learn and work on a wide variety of products with distinct tech stacks and business domains so you will be continuously challenged. You will uncover the “high-order bit” decisions by interviewing other product CTOs, analyzing the data structures and analyzing code and design documents. Finally, you will make the important design decisions that specify how to rearchitect products in a cloud-first way on systems like AWS and GCP, and how leveraging the latest powerful cloud services can enable ten-fold improvements in the product.  
-> *What You Won’t Be Doing*  
+> **What You Won’t Be Doing**  
 > You will not be making technical decisions based primarily on saving money. You will focus on designing the best solution for the problem, in the simplest way possible, and with maximum leverage of existing assets. This is a strategic technical design position - making the important technical decisions and providing clear leadership for our engineering organization to execute on. Therefore, in this role you won’t be:  
 >   Participating in daily scrum meetings or providing day-to-day direction to an engineering team  
 >   Making low-level decisions about what coding language to use or choosing frameworks and libraries  
 >   Performing code reviews, debugging or investigating bugs and outages  
 >   Talking to customers to develop a backlog of features they wish our products had  
 >   Directly managing people  
->   *Chief Architect Key Responsibilities*  
+>   **Chief Architect Key Responsibilities**  
 >   Make clear, simple, and technically superior design decisions   
 >   Simplify designs that others have made complicated  
 >   Apply a particularly high-quality bar to what we believe are the core technical design decisions - data structures, algorithms, architectural patterns, and the leverage of third-party implementations  
 >   Utilize other architects as force-multipliers, mentoring them by providing high-quality feedback on their work  
 >   Synthesize your decisions and designs into clear and structured written specs  
->   *Basic Requirements*  
+>   **Basic Requirements**  
 >   A university degree that includes the study of data structures and algorithms  
 >   At least 2 years experience with a commercial software company shipping production code  
 >   At least 5 years of experience making core architecture and design decisions; such as data domain modeling, application of design patterns, and design using third-party components.   
 >   The ability to simplify complex ideas and communicate them with clear, logical thinking.  
-> *Nice-to-have Requirements*  
+> **Nice-to-have Requirements**  
 > Experience designing for Amazon Web Services, Azure, or Google Cloud Platform.  
 >   Experience redesigning existing products on top of serverless cloud services.  
 >   Experience crafting simple but meaningful messages for sales and marketing teams.  
-> *Compensation and growth:*  
+> **Compensation and growth:**  
 >   As a 100% remote organization, we pay the same rate to everyone in a given role regardless of prior compensation history or geographic location. For simplicity, we make weekly payments at your full hourly rate and do not incorporate any variable pay components or subsidized benefits. It is about as clear and simple of a compensation plan as you can imagine.  
 >   This SVP-level position has a rate of $200/hr or roughly $400k/yr, and our desire is long-term career opportunities, not short-term relationships for “side gigs”.  
 >   This role is also part of a Technical Product Management growth path. The step just below exercises similar skills but at a different level of scope and is a VP-level ($100/hr) role. The growth path for this SVP-level role is to EVP-level ($400/hr). You can find all of our job listings on our jobs site: https://jobs.BadCompany2.com  
@@ -74,14 +74,19 @@ If you don't want to read the whole thing, [click here]({{< relref "index.md#exp
 
 
 ## A deep analysis of all the red flags. {#explanation}
-We start with the job posting heading:  
+
+First off, why is this job posting so long? It gives a lot of information, which is great. But it's also telling a story. It's trying to pull you in emotionally, so you don't think too much about what you are reading. Be wary of a job posting that has too much effort put into it.
+
+Next we have the job posting title, it's pure click bait!
 > *Chief Architect (Remote) - $400,000/year USD*
 
 That's a very attractive offer. Remote work, AND $400K a year? That's almost too good to be true! (And it is)
 Legitimate job postings don't put the salary in the title. If it's a progressive company with open and transparent salaries, they will be mentioned in the job description with a link to the updated salary sheets. This is pure click bait. Learn to treat it with suspicion, like spam email.
 
 > Company Name < > Company Location <non US location>  
-> Posted DatePosted 1 day ago  
+  
+Wait what? They are giving a salary in USD, but they are hiring in another country? Why? Oh, I guess it's remote, but why advertise US amounts? Do they not have the proper legal and finacial infrastructure to pay in the local currency? What's going on here?
+  
 >  Are you the best software architect in your company? Can you identify patterns in complex systems and see ways to make them 10x simpler? Do you enjoy designing software that maximizes use of existing code? Do you wish you could expand your technical career without requiring more and more time on HR and project management? If so, you’ll love our approach of driving the direction of products starting with the core technology.
 >  In this role you will join a very passionate and experienced team responsible for all of the important technical decisions on every product in our large portfolio of enterprise software solutions. You’ll spend your time making the most important technical design decisions, such as:  
 >   What are the core data structures used by the app? Why were they chosen? How are they mapped or applied to the domain of the problem? What were the tradeoffs or alternatives?  

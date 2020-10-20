@@ -13,7 +13,7 @@ This article will point out all the red flags in this posting to help protect yo
 
 Below, is the job post in full. Excuse the formating. I've removed some details to protect the guilty. Read it, get enticed, and then we will dive into it.
 
-If you don't want to read the whole thing, [click here]{{< relref "index.md#explanation" >}} to dive in.
+If you don't want to read the whole thing, [click here]({{< relref "index.md#explanation" >}} | "to dive in").
 
 > *Chief Architect (Remote) - $400,000/year USD*
 > Company Name < > Company Location <non US location>  

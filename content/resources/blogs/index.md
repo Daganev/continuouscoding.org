@@ -64,15 +64,15 @@ description: "This is a simple list of blogs and websites which delve deeper int
 - [Agile Manifesto: Principles](https://agilemanifesto.org/principles.html)
 
 ## Books
-- ![](https://images-na.ssl-images-amazon.com/images/I/51cUVaBWZzL._AC_UL160_.jpg)[Pragmatic Programmer](https://pragprog.com/book/tpp20/the-pragmatic-programmer-20th-anniversary-edition)
-- ![](https://images-na.ssl-images-amazon.com/images/I/41pO5GqNtzL._AC_UL160_.jpg)[TDD by Example](https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530)
-- ![](https://images-na.ssl-images-amazon.com/images/I/51TG9F1B8AL._AC_UL160_.jpg)[Working with Legacy Code](https://www.amazon.com/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052)
-- ![](https://images-na.ssl-images-amazon.com/images/I/41LBzpPXCOL._AC_UL160_.jpg)[Refactoring](https://www.amazon.com/Refactoring-Improving-Existing-Addison-Wesley-Signature-dp-0134757599/dp/0134757599/)
-- ![](https://images-na.ssl-images-amazon.com/images/I/51sZW87slRL._AC_UL160_.jpg)[Domain Driven Design](https://dddcommunity.org/book/evans_2003/)
-- <img src=https://d2sofvawe08yqg.cloudfront.net/fp-oo/small height=160 />[Functional Programming for the Object-Oriented Programmer](https://leanpub.com/fp-oo)
-- <img src=https://d2beuh40lcdzfb.cloudfront.net/products/197947/300x300/cover_2nd_sales_js_ruby.jpeg?1599590993 height=160 />[99 Bottles of OOP](https://sandimetz.com/99bottles)
-- ![](https://images-na.ssl-images-amazon.com/images/I/41JOmGowq-L._AC_UL160_.jpg)[Code Complete](https://www.amazon.com/gp/product/0735619670/)
-- ![](https://images-na.ssl-images-amazon.com/images/I/41OgAtYSpzL._AC_UL160_.jpg)[Clean Code Series](https://www.amazon.com/Robert-Martin-Clean-Code-Collection-ebook/dp/B00666M59G)
+- ![](https://images-na.ssl-images-amazon.com/images/I/51cUVaBWZzL._AC_UL160_.jpg)  [Pragmatic Programmer](https://pragprog.com/book/tpp20/the-pragmatic-programmer-20th-anniversary-edition)
+- ![](https://images-na.ssl-images-amazon.com/images/I/41pO5GqNtzL._AC_UL160_.jpg)  [TDD by Example](https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530)
+- ![](https://images-na.ssl-images-amazon.com/images/I/51TG9F1B8AL._AC_UL160_.jpg)  [Working with Legacy Code](https://www.amazon.com/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052)
+- ![](https://images-na.ssl-images-amazon.com/images/I/41LBzpPXCOL._AC_UL160_.jpg)  [Refactoring](https://www.amazon.com/Refactoring-Improving-Existing-Addison-Wesley-Signature-dp-0134757599/dp/0134757599/)
+- ![](https://images-na.ssl-images-amazon.com/images/I/51sZW87slRL._AC_UL160_.jpg)  [Domain Driven Design](https://dddcommunity.org/book/evans_2003/)
+- <img src=https://d2sofvawe08yqg.cloudfront.net/fp-oo/small height=160 />  [Functional Programming for the Object-Oriented Programmer](https://leanpub.com/fp-oo)
+- <img src=https://d2beuh40lcdzfb.cloudfront.net/products/197947/300x300/cover_2nd_sales_js_ruby.jpeg?1599590993 height=160 />  [99 Bottles of OOP](https://sandimetz.com/99bottles)
+- ![](https://images-na.ssl-images-amazon.com/images/I/41JOmGowq-L._AC_UL160_.jpg)  [Code Complete](https://www.amazon.com/gp/product/0735619670/)
+- ![](https://images-na.ssl-images-amazon.com/images/I/41OgAtYSpzL._AC_UL160_.jpg)  [Clean Code Series](https://www.amazon.com/Robert-Martin-Clean-Code-Collection-ebook/dp/B00666M59G)
 
 
 ## "Research Papers"

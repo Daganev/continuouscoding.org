@@ -8,3 +8,4 @@ description: "Relevant Videos"
 - Video Course on learning TDD [JBrains World's Best Intro to TDD](https://online-training.jbrains.ca/courses/wbitdd-01/lectures/133270)
 - TDD and Design: [Sandro Mancuso - Does TDD Really Lead to Good Design?](https://www.youtube.com/watch?v=KyFVA4Spcgg)
 - "Reduce Volotality in the marginal cost of features" (TDD, BDD, CD, Lean) [JBrains: The Economics of Software Design](https://www.youtube.com/watch?v=TQ9rng6YFeY)
+- Using Code coverage, and classic techniques to refactor legacy code - A six video playlist [Refactoring Legacy Code ](https://www.youtube.com/playlist?list=PLqew6vQ7CzHI4gR0u3t7-F_suq8W044us)

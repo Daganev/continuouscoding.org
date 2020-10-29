@@ -1,55 +1,52 @@
 ---
-title: "Continuous reading"
+title: "Continuous Reading"
 description: "This is a simple list of blogs and websites which delve deeper into the concepts of Continuous Coding by various other names"
 ---
 
 ## Personalities
 
-- [Kent Beck](https://www.linkedin.com/in/kentbeck/)
-   - TDD
-   - XP (Extreme Programing)
-   - 3X (Explore, Expand, Extract)
-   - Agile Manifesto
-- [Arlo Belshee](http://arlobelshee.com/)
-    - Micro Skills
-- [Ward Cunningham](https://wiki.c2.com)
-   - The wiki
-   - XP
-   - Agile Manifesto
- - [Alistair Cockburn](https://heartofagile.com/)
-    - Agile Use Cases
-    - Heart Of Agile
-    - Agile Manifesto   
-- [James Coplien](https://sites.google.com/a/gertrudandcope.com/www/)
-   - Decisions based on Data, not just experience
-   - Agile Manifesto
-- [Marting Fowler](https://martinfowler.com/)
-   - Refactoring
-   - Agile Manifesto
-- [Ron Jeffries](https://ronjeffries.com/)
-  - XP
-  - [Agile Mentoring](https://www.agilementoring.com/)
-  - Agile Manifesto    
-- [Robert C. Martin (aka Uncle Bob)](https://blog.cleancoder.com/)
-   - SOLID design priciples
-   - Clean Code
-   - Agile Manifesto
-- [Steve Mellor](http://www.stephenmellor.com/)
-    - Executable UML
-    - Precise Documentation
-    - Agile Manifesto
-- [Sandi Metz](https://sandimetz.com/speaking/)
-  - Talks and Teaching of Object Oriented Programing
-- Jeff Sutherland & Ken Schwaber & Mike Beedle
-    - SCRUM
-    - Agile Manifesto
-- [Andy Hunt & Dave Thomas](https://pragprog.com/)
-    - Pragmatic Programmer
-    - Pragmatic Bookshelf
-    - Agile Manifesto    
-
-
-
+- ####  [Kent Beck](https://www.linkedin.com/in/kentbeck/)
+    TDD  
+    XP (Extreme Programing)  
+    3X (Explore, Expand, Extract)  
+    Agile Manifesto  
+- ####  [Arlo Belshee](http://arlobelshee.com/)
+    Micro Skills  
+- ####  [Ward Cunningham](https://wiki.c2.com)
+    The wiki  
+    XP  
+    Agile Manifesto  
+ - ####  [Alistair Cockburn](https://heartofagile.com/)
+    Agile Use Cases    
+    Heart Of Agile  
+    Agile Manifesto  
+- ####  [James Coplien](https://sites.google.com/a/gertrudandcope.com/www/)
+    Decisions based on Data, not just experience  
+    Agile Manifesto  
+- ####  [Marting Fowler](https://martinfowler.com/)
+    Refactoring  
+    Agile Manifesto  
+- ####  [Ron Jeffries](https://ronjeffries.com/)
+   XP  
+   [Agile Mentoring](https://www.agilementoring.com/)  
+   Agile Manifesto  
+- ####  [Robert C. Martin (aka Uncle Bob)](https://blog.cleancoder.com/)
+   SOLID design priciples
+   Clean Code
+   Agile Manifesto
+- #### [Steve Mellor](http://www.stephenmellor.com/)
+   Executable UML
+   Precise Documentation
+   Agile Manifesto
+- #### [Sandi Metz](https://sandimetz.com/speaking/)
+   Talks and Teaching of Object Oriented Programing
+- #### Jeff Sutherland & Ken Schwaber & Mike Beedle
+   SCRUM  
+   Agile Manifesto  
+- #### [Andy Hunt & Dave Thomas](https://pragprog.com/)
+   Pragmatic Programmer  
+   Pragmatic Bookshelf 
+   Agile Manifesto   
 
 ## Blogs / Articles
 

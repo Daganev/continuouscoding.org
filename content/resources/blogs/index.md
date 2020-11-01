@@ -70,7 +70,7 @@ description: "This is a simple list of blogs and websites which delve deeper int
 - <img src=https://d2beuh40lcdzfb.cloudfront.net/products/197947/300x300/cover_2nd_sales_js_ruby.jpeg?1599590993 height=160 />  [99 Bottles of OOP](https://sandimetz.com/99bottles)
 - ![](https://images-na.ssl-images-amazon.com/images/I/41JOmGowq-L._AC_UL160_.jpg)  [Code Complete](https://www.amazon.com/gp/product/0735619670/)
 - ![](https://images-na.ssl-images-amazon.com/images/I/41OgAtYSpzL._AC_UL160_.jpg)  [Clean Code Series](https://www.amazon.com/Robert-Martin-Clean-Code-Collection-ebook/dp/B00666M59G)
-- <img src=https://mitpress.mit.edu/sites/default/files/styles/related_title_teaser/http/mitp-content-server.mit.edu%3A18180/books/covers/cover/%3Fcollid%3Dbooks_covers_0%26isbn%3D9780262011532%26type%3D.jpg?itok=meD08G_i height=160 /> [Scructure and Interpretation of Computer Programs](https://web.mit.edu/alexmv/6.037/sicp.pdf)
+- <img src=https://mitpress.mit.edu/sites/default/files/styles/related_title_teaser/http/mitp-content-server.mit.edu%3A18180/books/covers/cover/%3Fcollid%3Dbooks_covers_0%26isbn%3D9780262011532%26type%3D.jpg height=160 /> [Scructure and Interpretation of Computer Programs](https://web.mit.edu/alexmv/6.037/sicp.pdf)
 
 
 ## "Research Papers"

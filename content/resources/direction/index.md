@@ -14,7 +14,8 @@ description: topics to cover when redesigning the focus of the website.
 - test isolation
 - write code to be observable
 - different logging patterns. 
-
+- deploy vs release and deployment strategies
+- post release analysis / update code and alerts
 #### side topics
 - sustainability
 - 4hrs/day 6/days a week

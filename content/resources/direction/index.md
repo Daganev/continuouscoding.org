@@ -8,4 +8,5 @@
 - always green
 - small changes
 - test isolation
-- 
+- write code to be observable
+- different logging patterns. 

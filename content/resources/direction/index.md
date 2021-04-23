@@ -24,7 +24,7 @@ description: topics to cover when redesigning the focus of the website.
 - isolated integration testing
 - always support the previous configuration
 - chaos engineering - how to write code to survive a broken / overloaded dependency.
-
+- greenfield / small legacy / startup / mega corp
 
 #### side topics 
 - sustainability

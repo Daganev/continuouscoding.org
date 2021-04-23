@@ -1,4 +1,8 @@
+---
+title: New direction of Continuous Coding
+description: topics to cover when redesigning the focus of the website.
 
+---
 ## What is continuous coding really?
 - feature flags
 - dark launching
@@ -10,3 +14,8 @@
 - test isolation
 - write code to be observable
 - different logging patterns. 
+
+#### side topics
+- sustainability
+- 4hrs/day 6/days a week
+

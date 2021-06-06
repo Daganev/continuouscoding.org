@@ -1,29 +1,26 @@
 ---
 title: "Continuous Coding, 8 days a sprint"
-date: 2019-12-27T12:00:06+09:00
+date: 2021-06-06T12:00:06+09:00
 description: "A sprint in the life of a continuous coder"
 type: portfolio
 category:  ["concepts"]
-tags:
 series:
 - main concepts
-categories:
-- continuous coding
 image:  "images/feature/8DaySprint.jpg"
 ---
-
+  
 What does coding life look like when you are a continuous coder?
 Well, as the Beatles once said, "8 days a week, I love you." That's what many people think of when they hear of continuous coding for the first time.
 But we are here to offer a better way. 2 weeks for a sprint is a pretty good lenght of time. And as a continuous coder, you'll be able to make those sprints 8 days long.
 Let's work towards 8 days a sprint. It might be enough to show you how much I care.
-
+  
 Over the next 8 articles, we will describe in great detail how a sprint might go, with a few detours to show alternate timelines.
-
+  
 But first, let's spell out an ideal schedule:
 * `Pomodoro  = 25 minutes of work, followed by a 5 minute break.`  
 Below is an idealized schedule for every day of the week.
-
-
+  
+  
 | Monday | Tuesday | Wednesday | Thursday |
 ---------|---------|-----------|----------|
 | 09:00: Morning Kata |  09:00: Morning Kata | 09:00: Morning Kata | 09:00: Morning Kata |    
@@ -37,7 +34,9 @@ Below is an idealized schedule for every day of the week.
 | 15:00: Nap time. Check emails, and chats, talk to the family |  15:15: Nap time. Check emails, and chats, talk to the family | 15:00: Nap time. Check emails, and chats, talk to the family | 15:00: Nap time. Check emails, and chats, talk to the family |  
 | 15:30: Pomodoro 9 - 12 |   15:30: Pomodoro 7 - 10 |  15:30: Pomodoro 9 - 12 |  15:30: Pomodoro 9 - 12 | 
 | 17:30: Wrap up the day, tripple check your work. |  17:30: Wrap up the day, tripple check your work. |  17:30: Wrap up the day, tripple check your work. |  17:30: Wrap up the day, tripple check your work. |  
-
+  
+  
+  
 | Monday | Tuesday | Wednesday | Thursday |
 ---------|---------|-----------|----------|
 | 09:00: Morning Kata |  09:00: Morning Kata | 09:00: Morning Kata | 09:00: Morning Kata |    

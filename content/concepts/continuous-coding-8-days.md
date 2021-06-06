@@ -9,7 +9,7 @@ series:
 - main concepts
 categories:
 - continuous coding
-image:  "images/feature/8-day-sprint.jpg"
+image:  "images/feature/8DaySprint.jpg"
 ---
 
 What does coding life look like when you are a continuous coder?

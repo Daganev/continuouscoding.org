@@ -1,6 +1,7 @@
 ---
 title: "Continuous Delivery Pipelines"
 description: "Some Notes on the book Continuous Delivery Pipelines by Dave Farley"
+date: 2021-09-16T12:00:00+03:00
 ---
 
 
